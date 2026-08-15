@@ -28,3 +28,4 @@ spec:
     app: wil42
   ports:
     - port: 8888
+      targetPort: 8888
